@@ -10,6 +10,7 @@ module OmniAuth
         authorize_url: "https://open.weixin.qq.com/connect/qrconnect#wechat_redirect",
         token_url:     "/sns/oauth2/access_token",
         token_method:  :get
+      }
 
       option :authorize_params, {scope: "snsapi_userinfo"}
 
