@@ -82,5 +82,4 @@ Here's an example of an authentication hash available in the callback by accessi
 ```
 
 
-###OK
 
